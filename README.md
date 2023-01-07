@@ -1,7 +1,7 @@
-Incubation Application (slot booking system)
+# Incubation Application (slot booking system)
 This application is based on a booking site model .In this application the companies can book a slot for the company .the comapny can fill up a form and reequest for the booking and the admin check the request and the admin accept the request and schedule a slot for the company.
 
-features
+# features
 Sign up and Login authentication
 
 JWT Authentication
@@ -12,7 +12,7 @@ Application submission
 
 Admin side application management , progress status
 
-Techologies Used
+# Techologies Used
 React Js
 
 Node Js
@@ -32,7 +32,7 @@ JWT Token
 Run Locally
 Clone the project
 
-bash git clone https://github.com/Beffinyohannan/Incubation
+bash git clone https://github.com/brittovincent111/incubation.git
 
 Go to the project directory
 
